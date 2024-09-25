@@ -10,6 +10,10 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=java,dart,flutter,postman,firebase,androidstudio,github,vscode)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 <!---
 hayam-tarek/hayam-tarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
