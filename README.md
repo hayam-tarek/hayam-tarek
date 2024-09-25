@@ -11,6 +11,24 @@
 [![SkillIcons](https://skillicons.dev/icons?i=java,dart,flutter,postman,firebase,androidstudio,github,vscode)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="https://github.com/user-attachments/assets/eda54c63-4a7a-426b-991e-c48bf4cf91e6" width=50 height=50 alt="hayamtareq28@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/hayam-tarek" target="_blank">
+<img src="https://github.com/user-attachments/assets/6ecd346f-8e5e-46db-8e31-ac7c6a636c9e" width=50 height=50 alt="hayam-tarek" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/hayam-tarek/" target="_blank">
+<img src="https://github.com/user-attachments/assets/845adc39-5829-42dd-85f0-5364fbed1489" width=50 height=50 alt="hayam-tarek" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
