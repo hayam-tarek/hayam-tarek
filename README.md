@@ -14,7 +14,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="hayamtareq28@gmail.com" target="_blank">
 <img src="https://github.com/user-attachments/assets/eda54c63-4a7a-426b-991e-c48bf4cf91e6" width=50 height=50 alt="hayamtareq28@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
