@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/eda54c63-4a7a-426b-991e-c48bf4cf91e6" width=50 height=50 alt="hayamtareq28@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/hayam-tarek" target="_blank">
+<a href="https://www.github.com/hayam-tarek" target="_blank">
 <img src="https://github.com/user-attachments/assets/6ecd346f-8e5e-46db-8e31-ac7c6a636c9e" width=50 height=50 alt="hayam-tarek" style="margin-bottom: 5px;" />
 </a>
 
