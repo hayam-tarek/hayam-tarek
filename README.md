@@ -4,7 +4,6 @@
 - 👀 I’m interested in mobile application development.
 - 🌱 I’m currently learning flutter technology.
 - 💞️ I’m looking to collaborate on innovative mobile app ideas with other developers and designers.
-- 📫 How to reach me: hayamtareq28@gmail.com
 
 # 💻 Skills
 [![SkillIcons](https://skillicons.dev/icons?i=java,dart,flutter,postman,firebase,androidstudio,github,vscode)](https://skillicons.dev)<br/>
