@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on innovative mobile app ideas with other developers and designers.
 
 # 💻 Skills
-[![SkillIcons](https://skillicons.dev/icons?i=java,dart,flutter,postman,firebase,androidstudio,github,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=java,dart,flutter,postman,firebase,androidstudio,github,vscode,kotlin,android,)](https://skillicons.dev)<br/>
 
 
 # 📊 GitHub Stats:
