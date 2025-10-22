@@ -15,15 +15,20 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hayam-tarek&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hayam-tarek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hayam-tarek&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hayam-tarek&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayam-tarek&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hayam-tarek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hayam-tarek&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=hayam-tarek&limit=5&theme=neon&combine_all_yearly_contributions=true" width="40%" />
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
